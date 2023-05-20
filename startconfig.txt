@@ -1,0 +1,3 @@
+-d3d9ex -novid +fps_max 400 -freq 144 -console -tickrate 128 -rate 786432 +cl_inter -exec config.cfg.
+Jirnaya_jopa_2
+2365412abc
